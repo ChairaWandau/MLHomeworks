@@ -7,4 +7,6 @@
 
 Numpy-100: https://colab.research.google.com/drive/12jqq34dZ5ZI9UQE835qjEg8qSL-HmMrJ#scrollTo=0cc200be
 
-Лобараторная №1: https://colab.research.google.com/drive/1Ja92ksl5WujF8kB6g1Ph3d19YgE14wUd#scrollTo=-uAPoQeZ74nh
+Лобараторная №1: https://colab.research.google.com/drive/1Ja92ksl5WujF8kB6g1Ph3d19YgE14wUd?usp=sharing
+
+
