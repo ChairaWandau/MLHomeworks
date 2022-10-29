@@ -9,4 +9,6 @@ Numpy-100: https://colab.research.google.com/drive/12jqq34dZ5ZI9UQE835qjEg8qSL-H
 
 Лобараторная №1: https://colab.research.google.com/drive/1Ja92ksl5WujF8kB6g1Ph3d19YgE14wUd?usp=sharing
 
+Лобараторная №2: https://colab.research.google.com/drive/1uPPjqVF7QsIIheaMMYHisu784LKBPg21?usp=sharing
+
 
