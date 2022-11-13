@@ -3,7 +3,7 @@
 
 Студентка: Самсонова Валерия Игоревна, М8О-107М-22
 
-Ссылка на выбранный датасет для курсовой: https://drive.google.com/drive/folders/15RbdHeLymfKA_Xm96rIrGe4Dt5iCQ75E
+Ссылка на выбранный датасет для курсовой: https://colab.research.google.com/drive/12jqq34dZ5ZI9UQE835qjEg8qSL-HmMrJ?usp=sharing
 
 Numpy-100: https://colab.research.google.com/drive/12jqq34dZ5ZI9UQE835qjEg8qSL-HmMrJ#scrollTo=0cc200be
 
