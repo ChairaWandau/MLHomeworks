@@ -11,4 +11,6 @@ Numpy-100: https://colab.research.google.com/drive/12jqq34dZ5ZI9UQE835qjEg8qSL-H
 
 Лобараторная №2: https://colab.research.google.com/drive/1uPPjqVF7QsIIheaMMYHisu784LKBPg21?usp=sharing
 
+Лобараторная №3: https://colab.research.google.com/drive/1LPDIumY5jvBImf_Lp4vDhmkMoiFaEVMx?usp=sharing
+
 
